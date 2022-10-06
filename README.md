@@ -1,2 +1,2 @@
 # community-support
-A forum for programming support among Di members
+Unofficial forum for programming support among Di members
